@@ -1,0 +1,26 @@
+{ "name": "sspawn"
+, "version": "0.1.0"
+, "description": "Simple and fault-tolerant server spawner for Node.js"
+, "keywords": ["server", "spawn", "cluster", "domain"]
+, "homepage": "https://github.com/rricard/sspawn"
+, "bugs": {
+    "url": "https://github.com/rricard/sspawn/issues"
+  }
+, "license": "MIT"
+, "author": {
+    "name": "Robin Ricard"
+  , "email": "ricard.robin@gmail.com"
+  , "url": "https://github.com/rricard"
+  }
+, "main": "lib/ssspawn"
+, "repository": {
+    "type": "git"
+  , "url": "https://github.com/rricard/sspawn.git"
+  }
+, "dependencies": {
+    
+  }
+, "engines": {
+    "node": ">= 0.10.0"
+  }
+}
