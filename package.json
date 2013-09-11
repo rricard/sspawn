@@ -1,5 +1,5 @@
 { "name": "sspawn"
-, "version": "0.1.0"
+, "version": "0.1.1"
 , "description": "Simple and fault-tolerant server spawner for Node.js"
 , "keywords": ["server", "spawn", "cluster", "domain"]
 , "homepage": "https://github.com/rricard/sspawn"
@@ -12,7 +12,7 @@
   , "email": "ricard.robin@gmail.com"
   , "url": "https://github.com/rricard"
   }
-, "main": "lib/ssspawn"
+, "main": "index.js"
 , "repository": {
     "type": "git"
   , "url": "https://github.com/rricard/sspawn.git"

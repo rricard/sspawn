@@ -1,6 +1,6 @@
 "use strict";
 
-var Spawner = require("./spawner.js");
+var Spawner = require("./lib/sspawn/spawner.js");
 
 var api = function(server) {
   var options = {};
